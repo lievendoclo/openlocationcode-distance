@@ -20,16 +20,6 @@ gradle run
 ### Using Maven
 ```bash
 mvn clean compile
-mvn exec:java
-```
-
-### Manual Setup
-```bash
-# Download dependencies
-kotlinc -classpath openlocationcode-1.0.4.jar OpenLocationCodeDistance.kt -include-runtime -d OpenLocationCodeDistance.jar
-
-# Run
-java -jar OpenLocationCodeDistance.jar
 ```
 
 ## Usage
