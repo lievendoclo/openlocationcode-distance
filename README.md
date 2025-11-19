@@ -1,3 +1,5 @@
+[![Java CI with Gradle](https://github.com/lievendoclo/openlocationcode-distance/actions/workflows/gradle.yml/badge.svg)](https://github.com/lievendoclo/openlocationcode-distance/actions/workflows/gradle.yml)
+
 # Open Location Code Distance Calculator (Kotlin)
 
 Calculate the distance between two Open Location Code (Plus Code) addresses using Google's official library, written in idiomatic Kotlin.
